@@ -155,4 +155,14 @@ contract SimpleFundRaising {
     function getTotalFunders() public view returns(uint256) {
         return listOfFunders.length; // Return the current number of funders
     }
+
+    receive() external payable{
+        fundWithEth();
+        fundWithUsd();
+    }
+
+    fallback() external payable {
+        fundWithEth();
+        fundWithUsd();
+     }
 }
