@@ -79,6 +79,7 @@ __Prerequisites:__
 __Clone the repository:__
 
 ```bash
+copy code
 git clone https://github.com/yourusername/SimpleFundRaising.git
 ```
 
