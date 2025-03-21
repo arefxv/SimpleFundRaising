@@ -1,3 +1,5 @@
+Note: this is one of my earliest projects and the code within them is quite simple and not professional. I created this as I was just starting to learn and experiment with coding. Please keep this in mind if you decide to explore this repository.
+
 **SimpleFundRaising Contract**
 
 
